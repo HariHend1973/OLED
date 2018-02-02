@@ -1,3 +1,3 @@
 # OLED
-Monichrome oled
+Monochrome oled
 Arduino i2c
